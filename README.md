@@ -1,6 +1,6 @@
 <h1># To-do-list</h1>
-<h2>A simple and responsive To-Do List application built using **HTML, CSS, and JavaScript.  
-It allows users to add, delete, and manage daily tasks easily.</h2>
+<h2>A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. </h2> 
+<h2>It allows users to add, delete, and manage daily tasks easily.</h2>
 
 ---
 
